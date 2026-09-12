@@ -176,8 +176,12 @@ Delivered **80+ visual assets** â€” 50+ event posters and 30+ Instagram assets â
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=farhanelta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=A0A0B0&ring_color=6366F1" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanelta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=A0A0B0&langs_count=6" />
+<img height="160" src="https://streak-stats.demolab.com?user=farhanelta&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=A0A0B0&dates=A0A0B0&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanelta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=A0A0B0&langs_count=6&cache_seconds=1800" />
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanelta&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1)
 
 </div>
 
